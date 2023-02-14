@@ -1,2 +1,2 @@
 #!/bin/bash
-prl -lne 'print if $. % 2 == 1'
+tr 'a-z' 'n-za-m' | tr 'A-Z' 'N-ZA-M'
